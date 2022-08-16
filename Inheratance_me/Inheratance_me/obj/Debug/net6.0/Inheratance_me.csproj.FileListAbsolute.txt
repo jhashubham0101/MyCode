@@ -1,0 +1,15 @@
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.csproj.AssemblyReference.cache
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.AssemblyInfoInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.AssemblyInfo.cs
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.csproj.CoreCompileInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\bin\Debug\net6.0\Inheratance_me.exe
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\bin\Debug\net6.0\Inheratance_me.deps.json
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\bin\Debug\net6.0\Inheratance_me.runtimeconfig.json
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\bin\Debug\net6.0\Inheratance_me.dll
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\bin\Debug\net6.0\Inheratance_me.pdb
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.dll
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\refint\Inheratance_me.dll
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.pdb
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\Inheratance_me.genruntimeconfig.cache
+C:\Users\ShubhamKumarJha\source\repos\Inheratance_me\Inheratance_me\obj\Debug\net6.0\ref\Inheratance_me.dll
